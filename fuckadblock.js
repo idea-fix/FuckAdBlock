@@ -326,11 +326,12 @@
 			clearInterval(data.loopInterval);
 			var baitParent = this.options.get('baitParent');
 			if(baitParent === null) {
-				window.document.body.removeChild(data.bait);
-			} else {
                 if (window.document.body.contains(data.bait)) {
-                    baitParent.removeChild(data.bait);
+                    window.document.body.removeChild(data.bait);
                 }
+			} else {
+               	baitParent.removeChild(data.bait);
+
 			}
 			return this;
 		};

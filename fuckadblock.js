@@ -1,5 +1,5 @@
 /*
- * FuckAdBlock 4.0.0-beta.3
+ * FuckAdBlock 4.0.0
  * Copyright (c) 2013-2015 Valentin Allaire <valentin.allaire@sitexw.fr>
  * Released under the MIT license
  * https://github.com/sitexw/FuckAdBlock
@@ -133,7 +133,7 @@
 
 		var self = this;
 
-		var version = [4, 0, 0, 'beta', 3];
+		var version = [4, 0, 0];
 		var events = {};
 		var pluginsClass = {};
 

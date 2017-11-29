@@ -1,5 +1,5 @@
 /*
- * FuckAdBlock 4.0.0
+ * FuckAdBlock 4.0.6
  * Copyright (c) 2013-2015 Valentin Allaire <valentin.allaire@sitexw.fr>
  * Released under the MIT license
  * https://github.com/sitexw/FuckAdBlock

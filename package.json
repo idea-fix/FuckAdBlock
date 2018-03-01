@@ -1,6 +1,6 @@
 {
-	"name": "seopult-adblock-checker",
-	"version": "4.0.7",
+	"name": "fuckadblock",
+	"version": "4.0.8",
 	"description": "Detects ad blockers (AdBlock, ...)",
 	"author": {
 		"name" : "Valentin Allaire",
